@@ -1,0 +1,10 @@
+# Passos manuais para executar o processo.
+
+1- abrir programa
+2 digitar ususario
+3 clicar em entrar
+4 Extrair cada produto
+	1 clicar e registrar produto
+	2 clicar e registrar quantidade
+	3 clicar e registrar preço
+	4 clicar em registrar
