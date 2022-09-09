@@ -8,3 +8,5 @@
 	2 clicar e registrar quantidade
 	3 clicar e registrar preço
 	4 clicar em registrar
+
+Link para Exe: https://drive.google.com/drive/folders/13X4nlUI8Jic6qBZEprR4W5gvjkjb73R8?usp=sharing
