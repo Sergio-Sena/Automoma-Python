@@ -4,7 +4,7 @@ from time import sleep
 
 # 1- abrir programa
 pyautogui.click(1914,1043,duration=1)
-pyautogui.doubleClick(165,522,duration=2)
+pyautogui.doubleClick(165,522,duration=4)
 # 2 digitar usuário
 pyautogui.click(948,542,duration=1)
 pyautogui.write("jhonatan")
